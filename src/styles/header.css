@@ -1,0 +1,19 @@
+.nav-list {
+  box-shadow: 0px 0px 5px 0px #bbbbbb;
+  list-style: none;
+}
+
+.nav-list li {
+  padding: 20px 0;
+}
+
+.nav-list-link {
+  padding: 21px;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+.nav-list-link:hover {
+  background-color: #00bb00;
+  color: white;
+}
