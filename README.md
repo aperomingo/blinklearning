@@ -1,11 +1,16 @@
-## Available Scripts
+## Versiones utilizadas
 
-In the project directory, you can run:
+### `Node: 12.19.1` 
+### `npm: 6.14.8`
+
+## Scripts disponibles
+
+En el directorio del proyecto, puedes iniciar:
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Lanza la app en el modo desarrollo.\
+Abre [http://localhost:3000](http://localhost:3000) para verlo en tu navegador.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+La página se recargará cuando hagas cambios.\
