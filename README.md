@@ -9,7 +9,6 @@ En el directorio del proyecto, puedes iniciar:
 
 ### `npm start`
 
-Runs the app in the development mode.\
 Lanza la app en el modo desarrollo.\
 Abre [http://localhost:3000](http://localhost:3000) para verlo en tu navegador.
 
